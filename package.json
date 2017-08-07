@@ -1,0 +1,24 @@
+{
+  "name": "midwest-membership",
+  "version": "0.0.1",
+  "description": "Module connecting all midwest membership modules into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebitmill/midwest-membership.git"
+  },
+  "author": "Linus Miller <lohfu@lohfu.io> (https://lohfu.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thebitmill/midwest-membership/issues"
+  },
+  "homepage": "https://github.com/thebitmill/midwest-membership#readme",
+  "dependencies": {
+    "hyperscript-jsx": "^0.1.0",
+    "lodash": "^4.17.4",
+    "scrypt-for-humans": "^2.0.5"
+  }
+}
